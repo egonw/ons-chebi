@@ -1,5 +1,5 @@
 // license: MIT
-// copyright 2015-2017  Egon Willighagen <egon.willighagen@maastrichtuniversity.nl>
+// copyright 2015-2019  Egon Willighagen <egon.willighagen@maastrichtuniversity.nl>
 //
 // Run Bioclipse with extra memory: -ea -Xmx2048M -XX:MaxPermSize=512m -Declipse.buildId="2.6.0.vqualifier"
 @Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.0.5')
